@@ -68,17 +68,7 @@ npm run dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Deployment
-
-The project is optimized for Vercel deployment, but can be deployed on any platform supporting Next.js.
 
 ## Screenshots
 
 Placeholder 
-
-
-## Contact
-
-Your Name - [Your Email]
-
-Project Link: [https://github.com/yourusername/multi-step-form-with-validation](https://github.com/yourusername/multi-step-form-with-validation)
