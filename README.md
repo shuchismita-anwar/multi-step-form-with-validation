@@ -27,16 +27,22 @@ This is a multi-step form application built using Next.js 14 with App Router, de
 
 3. **Account Setup**
    - Username (required, min 4 characters)
-   - Password (required, min 6 characters)
+   - Password (required, min 6 characters, min 1 number, 1 uppercase, 1 lowercase)
    - Confirm Password (must match password)
 
 ### Key Functionalities
 - Step-by-step form navigation
+- Zod validation
 - Real-time form validation
-- Error message display
+- "Next" and "Previous" buttons
+- Data logged in console
+- Error messages under each field
 - Data summary before submission
+- React Query for API simulation
+- Dark mode support via `next-themes`
 - Responsive design
-- Optional dark mode support
+- Confetti effect on successful submission
+
 
 ## Prerequisites
 
