@@ -79,12 +79,3 @@ This is a responsive and accessible multi-step registration form built with **Ne
 - Node.js `v18` or later
 - npm
 
----
-
-## 📦 Getting Started
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/shuchismita-anwar/multi-step-form-with-validation.git
-cd multi-step-form-with-validation
