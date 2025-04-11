@@ -9,7 +9,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Cute Registration Form",
+  title: "Multi Step Registration Form",
   description: "A multi-step registration form with validation",
   generator: "v0.dev",
 };
